@@ -2,7 +2,7 @@
 
 A portfolio website designed about me
 
-![](jane-shot.png)
+![](./assets/images/portfolio.png)
 
 ## Github repo
 
