@@ -22,6 +22,7 @@ navLink.forEach((link) =>
 );
 
 // scroll to top functionality
+// eventListener gets the user's click action and exploit the scrollTo part of widnows object allowing button to be functional
 scrollUp.addEventListener("click", () => {
   window.scrollTo({
     top: 0,
